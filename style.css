@@ -1,0 +1,58 @@
+.menu{
+    width: 38%;
+    background-color:burlywood;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+body{
+    background-image: url(photo-1624976921221-4478954a4bc9.avif);
+    background-size: contain;
+    background-repeat: repeat;
+    font-size: large;
+    padding: 25px;
+}
+.established{
+    font-style: italic;
+}
+h1,h2,p{
+    text-align: center;
+}
+.item p{
+    display: inline-block;
+    margin-top: 8px;
+    margin-bottom: 7px;
+}
+.flavor,.desserts{
+    text-align: left;
+    width: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.price{
+    text-align: right;
+    width: 50%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+h1,h2{
+    font-family: impact;
+}
+h1{
+    margin-top: 0px;
+    font-size: 44px;
+}
+h2{
+    margin-bottom: 10px;
+}
+hr{
+    height: 3px;
+    border-color: brown;
+    background-color: brown;
+}
+img{
+    display: block;
+    /* margin-left: auto; */
+    margin-right: auto;
+}
