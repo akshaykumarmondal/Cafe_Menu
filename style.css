@@ -1,10 +1,10 @@
 .menu{
-    width: 38%;
+    width: 50%;
     background-color:burlywood;
     margin-right: auto;
     margin-left: auto;
-    padding: 20px;
-    max-width: 500px;
+    padding: 10px;
+    min-width: 200px;
 }
 body{
     background-image: url(photo-1624976921221-4478954a4bc9.avif);
